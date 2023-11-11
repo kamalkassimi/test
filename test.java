@@ -43,6 +43,7 @@ class Segment  extends Presone{
 class Main{
   public static void main(String[] args) {
         // Segment.Segment segment = new Segment.Segment(3, 7);
+    // git commit 
             // objet 1
             Segment segment = new Segment(24,12);
             System.out.println(segment.toString());
