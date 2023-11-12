@@ -1,5 +1,6 @@
 import java.util.Scanner;
 //package com.example.java;
+// modification in file 
  class Segment{
     private int a1;
     private int b1;
